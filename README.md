@@ -6,7 +6,6 @@ This project showcases the application of Power BI to deliver actionable busines
 
 ## 🔗 Checkout the live dashboard here 
 https://app.powerbi.com/view?r=eyJrIjoiNjU4NWVkYjYtNjE2ZS00YTk5LTg5YjYtNWU2MjU4ZmM3YWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
 ## Tech Stacks Used
 - **SQL** 🗃️
 - **Power BI Desktop** 🖥️
